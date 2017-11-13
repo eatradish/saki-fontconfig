@@ -5,7 +5,7 @@ My Arch Linux /etc/fonts
 # config
 
 ```
-# pacaur -S adobe-source-code-pro-fonts  adobe-source-han-sans-cn-fonts adobe-source-han-serif-tw-fonts  noto-fonts-cjk noto-fonts-emoji noto-fonts-extra
+# pacaur -S adobe-source-code-pro-fonts  adobe-source-han-sans-cn-fonts adobe-source-han-serif-tw-fonts  noto-fonts-cjk noto-fonts-emoji noto-fonts-extra font-bh-ttf
 $ git clone https://github.com/eatradish/sakiily-fonts-config.git
 $ cd /$path/sakiily-fonts-config
 # cp conf.avail/* /etc/fonts/conf.avail
