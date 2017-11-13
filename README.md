@@ -11,7 +11,7 @@ $ cd /$path/sakiily-fonts-config
 # cp conf.avail/* /etc/fonts/conf.avail
 $ cd /etc/fonts/conf.d
 # sudo ln -sf /etc/fonts/conf.avail/* /etc/fonts/conf.d/
-
+# cp ../fonts.conf /etc/fonts/fonts.cong
 
 $ ls -l /etc/fonts/conf.d
 total 56
